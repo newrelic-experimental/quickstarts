@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/newrelic-dashboards/static/js/main.c382a65d.chunk.js",
-    "main.js.map": "/newrelic-dashboards/static/js/main.c382a65d.chunk.js.map",
-    "runtime-main.js": "/newrelic-dashboards/static/js/runtime-main.57942c54.js",
-    "runtime-main.js.map": "/newrelic-dashboards/static/js/runtime-main.57942c54.js.map",
-    "static/js/2.77610a99.chunk.js": "/newrelic-dashboards/static/js/2.77610a99.chunk.js",
-    "static/js/2.77610a99.chunk.js.map": "/newrelic-dashboards/static/js/2.77610a99.chunk.js.map",
-    "index.html": "/newrelic-dashboards/index.html",
-    "precache-manifest.746937fe800036a4e406bc745c5dacba.js": "/newrelic-dashboards/precache-manifest.746937fe800036a4e406bc745c5dacba.js",
-    "service-worker.js": "/newrelic-dashboards/service-worker.js",
-    "static/js/2.77610a99.chunk.js.LICENSE.txt": "/newrelic-dashboards/static/js/2.77610a99.chunk.js.LICENSE.txt"
+    "main.js": "/newrelic-experimental/quickstarts/static/js/main.0911af78.chunk.js",
+    "main.js.map": "/newrelic-experimental/quickstarts/static/js/main.0911af78.chunk.js.map",
+    "runtime-main.js": "/newrelic-experimental/quickstarts/static/js/runtime-main.3e0d0c0e.js",
+    "runtime-main.js.map": "/newrelic-experimental/quickstarts/static/js/runtime-main.3e0d0c0e.js.map",
+    "static/js/2.77610a99.chunk.js": "/newrelic-experimental/quickstarts/static/js/2.77610a99.chunk.js",
+    "static/js/2.77610a99.chunk.js.map": "/newrelic-experimental/quickstarts/static/js/2.77610a99.chunk.js.map",
+    "index.html": "/newrelic-experimental/quickstarts/index.html",
+    "precache-manifest.fe9f6802ec6f3948b00e639175da35a2.js": "/newrelic-experimental/quickstarts/precache-manifest.fe9f6802ec6f3948b00e639175da35a2.js",
+    "service-worker.js": "/newrelic-experimental/quickstarts/service-worker.js",
+    "static/js/2.77610a99.chunk.js.LICENSE.txt": "/newrelic-experimental/quickstarts/static/js/2.77610a99.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.57942c54.js",
+    "static/js/runtime-main.3e0d0c0e.js",
     "static/js/2.77610a99.chunk.js",
-    "static/js/main.c382a65d.chunk.js"
+    "static/js/main.0911af78.chunk.js"
   ]
 }
