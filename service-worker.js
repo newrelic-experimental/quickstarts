@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/newrelic-experimental/quickstarts/precache-manifest.40a56ce8ec31440dd43f5881bcba54fe.js"
+  "/newrelic-experimental/quickstarts/precache-manifest.fb747587cbb79fd206d008ead8953a66.js"
 );
 
 self.addEventListener('message', (event) => {
