@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/quickstarts/static/css/main.f9915215.chunk.css",
-    "main.js": "/quickstarts/static/js/main.b18cbb63.chunk.js",
-    "main.js.map": "/quickstarts/static/js/main.b18cbb63.chunk.js.map",
-    "runtime-main.js": "/quickstarts/static/js/runtime-main.67346dca.js",
-    "runtime-main.js.map": "/quickstarts/static/js/runtime-main.67346dca.js.map",
-    "static/css/2.e1483528.chunk.css": "/quickstarts/static/css/2.e1483528.chunk.css",
-    "static/js/2.1c7982d1.chunk.js": "/quickstarts/static/js/2.1c7982d1.chunk.js",
-    "static/js/2.1c7982d1.chunk.js.map": "/quickstarts/static/js/2.1c7982d1.chunk.js.map",
-    "index.html": "/quickstarts/index.html",
-    "precache-manifest.3776358a0f4c05cfffa6dd806b2e903b.js": "/quickstarts/precache-manifest.3776358a0f4c05cfffa6dd806b2e903b.js",
-    "service-worker.js": "/quickstarts/service-worker.js",
-    "static/css/2.e1483528.chunk.css.map": "/quickstarts/static/css/2.e1483528.chunk.css.map",
-    "static/css/main.f9915215.chunk.css.map": "/quickstarts/static/css/main.f9915215.chunk.css.map",
-    "static/js/2.1c7982d1.chunk.js.LICENSE.txt": "/quickstarts/static/js/2.1c7982d1.chunk.js.LICENSE.txt"
+    "main.css": "/nr1-quickstarts/static/css/main.f9915215.chunk.css",
+    "main.js": "/nr1-quickstarts/static/js/main.5455be25.chunk.js",
+    "main.js.map": "/nr1-quickstarts/static/js/main.5455be25.chunk.js.map",
+    "runtime-main.js": "/nr1-quickstarts/static/js/runtime-main.f4cc37c5.js",
+    "runtime-main.js.map": "/nr1-quickstarts/static/js/runtime-main.f4cc37c5.js.map",
+    "static/css/2.e1483528.chunk.css": "/nr1-quickstarts/static/css/2.e1483528.chunk.css",
+    "static/js/2.1c7982d1.chunk.js": "/nr1-quickstarts/static/js/2.1c7982d1.chunk.js",
+    "static/js/2.1c7982d1.chunk.js.map": "/nr1-quickstarts/static/js/2.1c7982d1.chunk.js.map",
+    "index.html": "/nr1-quickstarts/index.html",
+    "precache-manifest.3d28129d4410eae6f9d33de7fe8b2b79.js": "/nr1-quickstarts/precache-manifest.3d28129d4410eae6f9d33de7fe8b2b79.js",
+    "service-worker.js": "/nr1-quickstarts/service-worker.js",
+    "static/css/2.e1483528.chunk.css.map": "/nr1-quickstarts/static/css/2.e1483528.chunk.css.map",
+    "static/css/main.f9915215.chunk.css.map": "/nr1-quickstarts/static/css/main.f9915215.chunk.css.map",
+    "static/js/2.1c7982d1.chunk.js.LICENSE.txt": "/nr1-quickstarts/static/js/2.1c7982d1.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.67346dca.js",
+    "static/js/runtime-main.f4cc37c5.js",
     "static/css/2.e1483528.chunk.css",
     "static/js/2.1c7982d1.chunk.js",
     "static/css/main.f9915215.chunk.css",
-    "static/js/main.b18cbb63.chunk.js"
+    "static/js/main.5455be25.chunk.js"
   ]
 }
